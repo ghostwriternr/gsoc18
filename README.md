@@ -14,4 +14,4 @@ This project aims to fill this gap and attempt to build gRPC Python with Bazel. 
 
 Complete proposal: [PDF](proposal.pdf)
 
-SoC website link: https://summerofcode.withgoogle.com/projects/#6482576244473856
+SoC website link: https://summerofcode.withgoogle.com/archive/2018/projects/5400971639259136/
